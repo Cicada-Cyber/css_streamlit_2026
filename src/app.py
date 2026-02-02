@@ -256,32 +256,32 @@ PERSONAL_INFO = {
 SKILLS = {
     "Programming Languages": {
         "Python": 95,
-        "Java": 90,
+        "Java": 60,
         "SQL": 90,
-        "C": 75,
+        "C": 65,
         "Bash": 70,
-        "BigQuery": 70
+        "BigQuery": 85
     },
     "Frameworks & Tools": {
-        "React": 80,
+        "React": 50,
         "Svelte": 75,
-        "Docker": 80,
+        "Docker": 65,
         "Git": 90,
         "MongoDB Atlas": 85,
         "PostgreSQL": 85,
-        "Terraform": 70
+        "Terraform": 60
     },
     "Data Science": {
         "Machine Learning": 85,
-        "Statistical Analysis": 90,
+        "Statistical Analysis": 55,
         "NLP": 80,
-        "Data Visualization": 85,
+        "Data Visualization": 50,
         "GPT Integration": 75
     },
     "Bioinformatics": {
-        "Protein Analysis": 90,
+        "Protein Analysis": 75,
         "KEGG Pathway Analysis": 85,
-        "MS/MS Data Processing": 90,
+        "MS/MS Data Processing": 60,
         "GWAS Analysis": 80
     }
 }
